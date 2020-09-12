@@ -60,6 +60,6 @@ int multiplicar(int num1, int num2);
  *
  */
 
-unsigned long int factorialNum(int num1);
+long long int factorialNum(int num1);
 
 
