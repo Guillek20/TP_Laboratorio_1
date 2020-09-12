@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599837441 source:e:\guille\universidad el retorno\programacion\tp-nº1-calculadora-guillermo-lincoman\tp-nº1-calculadora\lincoman.c
+	"lincoman.h"
+
+1599837111 source:e:\guille\universidad el retorno\programacion\tp-nº1-calculadora-guillermo-lincoman\tp-nº1-calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lincoman.h"
+
+1599837444 e:\guille\universidad el retorno\programacion\tp-nº1-calculadora-guillermo-lincoman\tp-nº1-calculadora\lincoman.h
+
