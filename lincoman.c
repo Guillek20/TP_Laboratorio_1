@@ -42,9 +42,9 @@ float promedioEnteros(int num1, int num2)
     return multiplicacion;
  }
 
-unsigned long int factorialNum(int num1)
+long long factorialNum(int num1)
  {
-    int factorial=1;
+    long long int factorial=1;
 
     for(int i = 1; i<=num1; i++)
     {
