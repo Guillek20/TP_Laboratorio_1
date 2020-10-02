@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601676419 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp_laboratorio_2\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601675095 source:e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp_laboratorio_2\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601676406 e:\guille\universidad el retorno\programacion\trabajo practico n°2\tp_laboratorio_2\tp_laboratorio_2\arrayemployees.h
+
